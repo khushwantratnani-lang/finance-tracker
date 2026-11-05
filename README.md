@@ -7,6 +7,7 @@ A full-stack personal finance web app built with **PHP**, **MySQL**, **HTML**, *
 ![Dashboard](screenshots/dashboard.png)
 ![Transactions](screenshots/transactions.png)
 ![Add transaction](screenshots/add-transaction.png)
+![Edit transaction](screenshots/edit-transaction.png)
 ![Register](screenshots/register.png)
 
 ## Features
