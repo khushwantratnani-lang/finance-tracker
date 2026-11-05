@@ -2,6 +2,13 @@
 
 A full-stack personal finance web app built with **PHP**, **MySQL**, **HTML**, **CSS** and **JavaScript**. Users register, log in and manage their own income and expenses, with a dashboard that totals everything automatically.
 
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![Transactions](screenshots/transactions.png)
+![Add transaction](screenshots/add-transaction.png)
+![Register](screenshots/register.png)
+
 ## Features
 
 - Register and log in; passwords are hashed with bcrypt (`password_hash`) and never stored in plain text
